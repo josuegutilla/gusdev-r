@@ -1,6 +1,6 @@
   <h1 align="center">
     Software Engineer - Backend - 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Gustavo Moreira</a>
+    <a href="https://www.linkedin.com/in/0812-gus-dev-java/">Gustavo Moreira</a>
   </h1>
 
 <div align="center">
