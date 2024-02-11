@@ -19,3 +19,7 @@
   <a href="https://www.tiktok.com/@gusdev_r" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5JCRr5NFMF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+![readme](https://github-readme-stats.vercel.app/api/pin/gusdev-r/gusdev-r/blob/output/github-contribution-grid-snake.cvg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=gusdev-r&repo=gusdev-r&theme=react)](https://github.com/gusdev-r/gusdev-r)
