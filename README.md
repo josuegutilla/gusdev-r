@@ -5,10 +5,12 @@
 
 <div align="center">
   <a href="https://github.com/gusdev-r">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gusdev-r&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdev-r&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gusdev-r&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdev-r&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+![thumb-cinza-gusdev](https://github.com/gusdev-r/gusdev-r/assets/125270361/f23d4129-37c0-40d3-9dde-fa6be7c785ba)
 
  
 <div align="center" valign="top"><br>
