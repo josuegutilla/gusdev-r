@@ -31,9 +31,9 @@
   
   <img align="center" alt="gusdev-Docker" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"/>
 
-  <img align="center" alt="gusdev-Docker" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg"/>
+  <img align="center" alt="gusdev-AWS" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg"/>
 
-  <img align="center" alt="gusdev-Docker" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Spring-Dark.svg"/>
+  <img align="center" alt="gusdev-Spring" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Spring-Dark.svg"/>
 </div><br>
 
 
