@@ -41,7 +41,7 @@
 
 
   <h4 align="center">
-     Ease of adaptation and learning, patient and passion for programming. In 2022 I started my studies in the area of Back-End developer with Java. I keep on doing projects and tests according to what I have learned along the way. - ✉️| How to reach me     
+     In 2022 I began my studies in the technology area, where I've been carrying out projects and exercises, working as a freelancer mainly with Java.  - ✉️| How to reach me     
      g.hen.moreira@gmail.com
   </h4>     
 
