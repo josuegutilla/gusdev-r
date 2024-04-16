@@ -31,9 +31,9 @@
 
   <img align="center" alt="gusdev-Docker" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"/>
 
-  <img align="center" alt="gusdev-PostgreSQL" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Dark.svg"/>   
+  <img align="center" alt="gusdev-Postgresql" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Dark.svg"/>   
 
-  <img align="center" alt="gusdev-SQL" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"/>
+  <img align="center" alt="gusdev-sql" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"/>
 
   <img align="center" alt="gusdev-Git" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"/>
 
