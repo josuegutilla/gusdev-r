@@ -23,8 +23,6 @@
 
   <img align="center" alt="gusdev-Spring" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Spring-Dark.svg"/>
 
-  <img align="center" alt="gusdev-Angular" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg"/>
-
   <img align="center" alt="gusdev-React" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"/>
 
   <img align="center" alt="gusdev-AWS" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg"/>
